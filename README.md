@@ -67,10 +67,6 @@ python part_3.py
 
 You can also read them from a file or whichever other way you prefer, just make sure the keys are set at the top of the script.
 
-### Contact
-
-If you have any questions or issues, please feel free to solve them on your own.
-
 ---
 
 Enjoy exploring the RAG pipeline with Pinecon!
